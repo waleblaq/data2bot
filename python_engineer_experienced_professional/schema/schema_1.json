@@ -1,0 +1,20 @@
+{
+    "key_One": {
+        "type": "array",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_Two": {
+        "type": "array",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_Three": {
+        "type": "enum",
+        "tag": "",
+        "description": "",
+        "required": false
+    }
+}
