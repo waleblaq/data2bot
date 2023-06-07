@@ -1,0 +1,12 @@
+{
+    "attributes": {
+      "appName": "ABCDEFGHIJKLMNOPQRSTUVW",
+      "eventType": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+      "subEventType": "ABCDEFGHIJKLMNO",
+      "sensitive": false
+    },
+    "message": {
+      "user": "ABCDEFGHIJKLMNOP",
+      "time": 890
+    }
+  }

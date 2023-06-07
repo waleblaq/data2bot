@@ -1,0 +1,14 @@
+{
+    "key_one": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_two": {
+        "type": "integer",
+        "tag": "",
+        "description": "",
+        "required": false
+    }
+}

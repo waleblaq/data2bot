@@ -39,7 +39,4 @@ def get_schema(data_filepath, schema_filepath) -> str:
 
 if __name__ == "__main__":
     for i in range(1,3):
-        print()
-        print(f'data/data_{i}.json', f"schema/schema_{i}.json")
-        print()
         get_schema(f'data/data_{i}.json', f"schema/schema_{i}.json")
